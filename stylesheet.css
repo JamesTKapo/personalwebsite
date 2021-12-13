@@ -1,0 +1,310 @@
+/*TOP NAV MENU*/
+ul
+{
+list-style: none;
+margin: 0 auto;
+padding: 0;
+overflow: hidden;
+text-align: center;
+
+}
+
+li
+{
+    display: inline;
+    
+}
+
+a
+{
+display:inline-block;
+padding: 10px;
+text-decoration: none;
+color: white;
+font-size: 15px;
+}
+
+
+/*-------------------------------------*/
+
+/*MAIN ELEMENTS*/
+
+html 
+{
+    scroll-behavior: smooth;
+}
+
+body
+{
+margin: 0px;
+padding: 0px;
+}
+
+
+
+h1
+{
+text-align: center;
+padding-top: 100px;
+font-size: 56px;
+color: white;
+}
+
+    h1.ex1
+    {
+        max-width: 150px;
+    }
+
+p
+{
+text-align: center;
+font-size: 20px;
+color: white;
+}
+
+    p.ex1 
+    {
+        max-width: 150px;
+    }
+
+
+#one 
+{
+    background-color: #2C2F33;
+    height: 600px;
+    
+}
+
+h2
+{
+color: black;
+text-align: left;
+margin-left: 300px;
+}
+
+    h2.ex1
+    {
+        max-width: 150px;
+    }
+
+
+#two
+{
+    text-align: left;
+    color: black;
+    margin-bottom: 200px;
+    margin-left: 300px;
+}
+
+    #two.ex1
+    {
+        max-width: 150px;
+    }
+/*-------------------------------------*/
+
+
+#tech-1
+{
+    text-align: left;
+    color: black;
+    margin-left: 600px;
+}
+
+#tech-2
+{
+    text-align: left;
+    color: black;
+    margin-left: 600px;
+}
+
+/*-------------------------------------*/
+
+
+/*SECTION THREE*/
+
+
+#threeBackground
+{
+    background-color: #2C2F33;
+    height: 600px;
+}
+
+#projects
+{
+    color: white;
+    text-align: left;
+    margin-left: 600px;
+    padding-top: 20px;
+}
+
+
+
+#bottomHeader
+{
+    background-color: #2C2F33;
+}
+
+
+table 
+{
+    width: 55%;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+    table.ex1
+    {
+        max-width: 150px;
+    }
+
+td ,th
+{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+    font-size: 20px;
+}   
+
+tr:nth-child(even) 
+{
+    background-color:#2C2F33;
+}
+
+
+/*-------------------------------------*/
+/*EDUCATION*/
+
+#EDU
+{
+    background-color: white;
+    height: 600px;
+}
+
+
+#EDUHEADER
+{
+    color: black;
+    text-align: left;
+    margin-left: 600px;
+    font-size: 20px;
+}
+
+    #EDUHEADER.ex1
+    {
+        max-width: 150px;
+    }
+
+    #EDUP
+    {
+        color: black;
+        text-align: left;
+        margin-left: 600px;
+        font-size: 20px;
+    }
+
+        #EDUP.ex1
+        {
+            max-width: 150px;
+        }
+
+    
+    /*LIST*/
+      
+    
+    #skillsgroup
+    {
+    position: relative;
+    }
+
+    #skillslist
+    { 
+        padding: 0; 
+        margin: 0; 
+    }
+    
+    #skillslist1
+    {
+            display: block;
+            text-align: left;    
+            margin-left: 590px;
+            font-size: 20px;     
+            padding: 10px;    
+    }
+
+        #skillslist1.ex1
+        {
+            max-width: 150px;
+        }
+
+    #edutable
+    {
+        color: black;
+        margin-left: 590px;
+        margin-top: 50px;  
+    }
+
+    #edutd
+    {
+        background-color: white;
+    }
+
+/*-------------------------------------*/
+
+
+/*Bottom Menu Bar*/
+
+#contactme
+{
+    background-color: #2C2F33;
+    height: 300px; 
+}
+
+
+.button
+{
+    text-align:center;
+    display:block;
+    padding: 10px;   
+    margin-left: 2px;
+    border: none;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.Media
+{
+    width: 90px;
+    height: 40px;
+    text-align:center;
+}
+
+
+.MediaLinks
+{
+color: black;
+text-align:center;
+}
+
+
+.bottonNav
+{
+    margin-bottom: 50px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
